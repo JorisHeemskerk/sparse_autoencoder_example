@@ -15,7 +15,7 @@ python main.py
 ```
 
 ## Attributions
->This GitHub is part of a research article titled *Privacy-Aware Traffic Re-Identification with Interpretable Sparse Autoencoders*
+This GitHub is part of a research article titled *Privacy-Aware Traffic Re-Identification with Interpretable Sparse Autoencoders*
 
 Authors:\
 Joris Heemskerk, Martijn Folmer, Michael Dubbeldam, Rianne van Os, Henry Maathuis
